@@ -1,1 +1,5 @@
-
+title: Bruce R Schultz
+#logo: /assets/img/headshot_circle.png
+description: Economics Data Science github
+show_downloads: true
+theme: jekyll-theme-minimal
